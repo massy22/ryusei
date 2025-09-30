@@ -22,7 +22,7 @@ Pull Request はいつでも歓迎しています。
 - 別の説明方法の提案や修正
 - 文章をわかりやすくするように改善
 
-:memo: **Note:** Pull Request を受け入れるとあなたの貢献が [Contributorsリスト](https://github.com/massy22/exe/graphs/contributors) に追加されます。<br />
+:memo: **Note:** Pull Request を受け入れるとあなたの貢献が [Contributorsリスト](https://github.com/massy22/ryusei/graphs/contributors) に追加されます。<br />
 これは、あなたの貢献がこのウェブサイトへの努力的な寄付となることを意味しています。
 
 ## 修正の送り方
@@ -43,20 +43,27 @@ Pull Request はいつでも歓迎しています。
 ## 修正の確認方法
 
 このウェブサイトは [Hugo](https://gohugo.io/) で作成されています。<br />
-`hugo server` を実行後、[http://localhost:1313/exe/](http://localhost:1313/exe/) へアクセスすることで、ウェブサイトのプレビュー表示ができます。<br />
+`hugo server` を実行後、[http://localhost:1313/ryusei/](http://localhost:1313/ryusei/) へアクセスすることで、ウェブサイトのプレビュー表示ができます。<br />
 hugo のインストール方法については、[Installation](https://gohugo.io/installation/) を参照してください。
 
 ```
 hugo server
-# open http://localhost:1313/exe/
+# open http://localhost:1313/ryusei/
 ```
 
 ## ディレクトリ構造
 
-`content/docs/タイトル名` 下にページ毎にディレクトリを切り、
-その下に markdown(`_index.md`)、リソース(`sample.jpg`、`sample.csv`) などを配置して扱います。
+`content/docs` 下にページ毎にディレクトリを切り、<br />
+その下に markdown(`_index.md`)、リソース(`sample.jpg`) などを配置して扱います。<br />
+csvは `assets/docs` 下にページ毎にディレクトリを切り、配置して扱います。
+
 
 ```
+├── assets
+│   └── docs
+│       └── ロックマンエグゼ2
+│           └── バトルチップ
+│               └── sample.csv
 └── content
     └── docs
         ├── ロックマンエグゼ
@@ -65,8 +72,7 @@ hugo server
         ├── ロックマンエグゼ2
         │   └── バトルチップ
         │       ├──_index.md
-        │       ├── sample.jpg
-        │       └── sample.csv
+        │       └── sample.jpg
 ```
 
 ## csvファイルの編集方法

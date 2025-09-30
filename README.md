@@ -1,9 +1,9 @@
-# ロックマンエグゼシリーズ攻略
-このウェブサイトは、ゲームボーイアドバンス専用ソフト ロックマンエグゼシリーズの攻略情報と、Nintendo Switch/Play Station 4/PC(Steam)向けソフト [ロックマンエグゼ アドバンスドコレクション](https://www.capcom-games.com/megaman/exe/) の攻略情報を扱っています。
+# 流星のロックマン攻略
+このウェブサイトは、ゲームボーイアドバンス専用ソフト 流星のロックマンの攻略情報と、[流星のロックマン パーフェクトコレクション](https://www.capcom-games.com/megaman/starforce/) の攻略情報を扱っています。
 
 以下のURLから閲覧できます。
 
-https://chipcom.org/exe/
+https://chipcom.org/ryusei/
 
 [CHIPCOM](https://chipcom.org/) というウェブサイトの一部です。
 

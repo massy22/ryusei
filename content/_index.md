@@ -13,7 +13,20 @@ draft: false
 [流星のロックマン2 攻略まとめWikiはこちら！](https://chipcom.org/ryusei2/)<br />
 [流星のロックマン3 攻略まとめWikiはこちら！](https://chipcom.org/ryusei3/)
 
+[CHIPCOM](https://chipcom.org/) というウェブサイトの一部です。
+
 ## はじめての方へ
 まず最初に【[お約束ガイド](docs/お約束ガイド)】を読んでください。<br />
 攻略上詰まりやすいポイントは、【[FAQ～よくある質問](docs/FAQ～よくある質問)】に解決法が載っていることが多いです。<br />
-その他の情報はメニューからどうぞ。うまく活用しましょう。
+その他の情報は、
+- PCなら
+  - 左メニューから
+- モバイルなら
+  - 左上の <img src="icons/menu.svg"> をタップすると表示されるメニューから
+
+どうぞ。
+
+## Contributing
+[このウェブサイトのソースコードは GitHub で管理している](https://github.com/massy22/ryusei/) ため、GitHubアカウントを持つ方であれば、誰でもかんたんにソースコードの変更を提案することができます。
+
+コントリビュートの方法や確認方法については、[CONTRIBUTING.md](https://github.com/massy22/exe/blob/main/CONTRIBUTING.md) を参照してください。

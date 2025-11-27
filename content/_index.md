@@ -29,4 +29,4 @@ draft: false
 ## Contributing
 [このウェブサイトのソースコードは GitHub で管理している](https://github.com/massy22/ryusei/) ため、GitHubアカウントを持つ方であれば、誰でもかんたんにソースコードの変更を提案することができます。
 
-コントリビュートの方法や確認方法については、[CONTRIBUTING.md](https://github.com/massy22/exe/blob/main/CONTRIBUTING.md) を参照してください。
+コントリビュートの方法や確認方法については、[CONTRIBUTING.md](https://github.com/massy22/ryusei/blob/main/CONTRIBUTING.md) を参照してください。

@@ -2,7 +2,7 @@
 title: "次回作妄想 第1回 Wi-Fi対戦編"
 date: 2025-09-30T02:27:32Z
 lastmod: 2025-09-30T02:27:32Z
-slug: 次回作妄想 第1回 Wi-Fi対戦編
+slug: "次回作妄想-第1回-Wi-Fi対戦編"
 draft: false
 ---
 

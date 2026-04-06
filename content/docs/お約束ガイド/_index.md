@@ -5,7 +5,6 @@ lastmod: 2025-09-30T02:27:32Z
 slug: お約束ガイド
 draft: false
 weight: 10
-weight: 10
 ---
 
 
